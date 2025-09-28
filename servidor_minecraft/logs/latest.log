@@ -157,3 +157,17 @@
 [19:36:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: NeizanJM[/192.168.194.5:52125] logged in with entity id 483 at (-8.5, 64, -135.5)
 [19:44:37] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player _Sebas_ is f17a7bb4-1852-31e2-97c2-2fb5f2e7bcda
 [19:44:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: _Sebas_[/192.168.194.247:50339] logged in with entity id 1,410 at (-16.5, 64, -119.5)
+[19:44:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: _Sebas_ lost connection: Disconnected
+[19:44:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Sebas_ left the game
+[19:46:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made NeizanJM a server operator
+[19:46:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /time set 0
+[19:46:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NeizanJM: Set the time to 0]
+[19:52:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM lost connection: Disconnected
+[19:52:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NeizanJM left the game
+[19:52:33] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player NeizanJM is a1933d30-05d2-35f5-8e7f-6579606af1f0
+[19:52:33] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 2 mods : minecraft, forge
+[19:52:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: NeizanJM[/192.168.194.5:53496] logged in with entity id 2,348 at (-30.199, 64, -84.054)
+[19:52:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /gamemode creative
+[19:52:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NeizanJM: Set own game mode to Creative Mode]
+[19:54:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM lost connection: Disconnected
+[19:54:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NeizanJM left the game
