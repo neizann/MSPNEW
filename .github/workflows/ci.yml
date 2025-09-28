@@ -1,0 +1,14 @@
+name: CI Test
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest   # 👈 aquí defines los núcleos (2 núcleos gratis)
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Hello World
+        run: echo "Hola desde GitHub Actions!"
