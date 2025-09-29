@@ -194,3 +194,13 @@
 [03:02:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp no
 [03:02:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp list
 [03:02:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp teleport Mi_casita
+[03:03:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
+[03:03:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
+[03:04:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
+[03:04:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
+[03:04:16] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -17, y: 64, z: -99, mundo: world
+[03:04:16] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:04:16] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: zonagrande
+[03:04:16] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:04:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
+[03:04:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
