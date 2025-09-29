@@ -233,3 +233,15 @@
 [03:33:13] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player NeizanJM is a1933d30-05d2-35f5-8e7f-6579606af1f0
 [03:33:14] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 7 mods : minecraft, mutantbeasts, forge, majrusz_library, majruszs_difficulty, securitycraft, jei
 [03:33:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: NeizanJM[/192.168.194.5:65005] logged in with entity id 5,197 at (-135.527, 64, -53.324)
+[03:36:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 0
+[03:37:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
+[03:37:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
+[03:37:18] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -18, y: 64, z: -99, mundo: world
+[03:37:18] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:37:18] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: myregion
+[03:37:18] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:40:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM lost connection: Timed out
+[03:40:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NeizanJM left the game
+[03:41:52] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player NeizanJM is a1933d30-05d2-35f5-8e7f-6579606af1f0
+[03:41:52] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 7 mods : minecraft, mutantbeasts, forge, majrusz_library, majruszs_difficulty, securitycraft, jei
+[03:41:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: NeizanJM[/192.168.194.5:63741] logged in with entity id 6,050 at (-145.133, 64, -41.542)
