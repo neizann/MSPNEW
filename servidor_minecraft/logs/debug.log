@@ -2883,3 +2883,64 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [03:41:53] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
 [03:41:53] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
 [03:41:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: NeizanJM[/192.168.194.5:63741] logged in with entity id 6,050 at (-145.133, 64, -41.542)
+[03:44:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:44:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:47:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
+[03:47:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
+[03:47:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 0
+[03:47:24] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -19, y: 64, z: -99, mundo: world
+[03:47:24] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:47:24] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: miregion
+[03:47:24] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:47:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp list
+[03:48:12] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -20, y: 64, z: -99, mundo: world
+[03:48:12] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:48:12] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: miregion
+[03:48:12] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:48:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp limit
+[03:48:50] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -20, y: 64, z: -107, mundo: world
+[03:48:50] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:48:50] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: otraregion
+[03:48:50] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:48:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp claimlimit
+[03:49:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp expand-vert
+[03:49:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:49:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:50:31] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -21, y: 64, z: -99, mundo: world
+[03:50:31] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:50:31] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: 
+[03:50:31] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:50:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp list
+[03:51:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp teleport miregion
+[03:51:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp settp
+[03:51:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp teleport miregion
+[03:52:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp teleport miregion
+[03:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[03:53:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03:53:05] [Server thread/INFO] [br.net.fabiozumbi12.RedProtect.Bukkit.RedProtect/]: [RedProtect] Disabling RedProtect v7.7.2
+[03:53:05] [Server thread/INFO] [/]: [RedProtect] Saving world's regions...
+[03:53:05] [Server thread/INFO] [/]: [RedProtect] Saving DIM1's regions...
+[03:53:05] [Server thread/INFO] [/]: [RedProtect] Saving DIM-1's regions...
+[03:53:05] [Server thread/INFO] [/]: [RedProtect] Unregistering listeners...
+[03:53:05] [Server thread/INFO] [/]: [RedProtect] RedProtect v7.7.2 turned off...
+[03:53:05] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Disabling WorldGuard v7.0.5+3827266
+[03:53:05] [Server thread/INFO] [com.sk89q.worldguard.WorldGuard/]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[03:53:05] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v7.2.17+6544-56d0383
+[03:53:05] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[03:53:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03:53:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM lost connection: Server closed
+[03:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NeizanJM left the game
+[03:53:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03:53:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:53:06] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:53:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[03:53:06] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:53:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[03:53:06] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:53:06] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:53:06] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:53:06] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:53:06] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:53:06] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:53:06] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[03:53:06] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
