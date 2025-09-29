@@ -1,6 +1,59 @@
+Mi_casita:
+  name: Mi_casita
+  lastvisit: 29/09/2025
+  admins: []
+  members: []
+  leaders:
+  - a1933d30-05d2-35f5-8e7f-6579606af1f0@neizanjm
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: -7
+  maxZ: -118
+  minX: -15
+  minZ: -126
+  maxY: 256
+  minY: 0
+  value: 0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: true
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
 hola:
   name: hola
-  lastvisit: 28/09/2025
+  lastvisit: 29/09/2025
   admins: []
   members: []
   leaders:
