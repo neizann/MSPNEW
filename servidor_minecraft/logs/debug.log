@@ -2640,3 +2640,18 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [03:04:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
 [03:09:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03:09:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:14:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:14:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:17:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp kill
+[03:17:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp kill world BEE
+[03:18:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp kill world BOAT
+[03:19:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:19:44] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:20:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
+[03:21:02] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -17, y: 64, z: -99, mundo: world
+[03:21:02] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:21:02] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: regiongrande
+[03:21:02] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:21:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp kill world BLAZE
+[03:22:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
+[03:22:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
