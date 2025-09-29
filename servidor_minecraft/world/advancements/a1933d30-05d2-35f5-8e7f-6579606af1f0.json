@@ -103,6 +103,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-09-29 03:26:47 +0000",
       "minecraft:plains": "2025-09-28 19:36:44 +0000"
     },
     "done": false
@@ -236,6 +237,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-09-28 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-09-29 03:26:30 +0000"
     },
     "done": true
   },

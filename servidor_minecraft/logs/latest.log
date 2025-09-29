@@ -215,3 +215,21 @@
 [03:21:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp kill world BLAZE
 [03:22:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
 [03:22:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
+[03:23:42] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -18, y: 64, z: -99, mundo: world
+[03:23:42] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:23:42] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: regionmas
+[03:23:42] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:24:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /sethome
+[03:24:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp sethome
+[03:24:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp settp
+[03:27:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp delete
+[03:27:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM issued server command: /rp yes
+[03:27:36] [Server thread/INFO] [/]: Espiar letrero - Ubicaci�n: x: -18, y: 64, z: -99, mundo: world
+[03:27:36] [Server thread/INFO] [/]: Jugador(a): NeizanJM
+[03:27:36] [Server thread/INFO] [/]: Lineas - 1: [rp] - 2: miregion
+[03:27:36] [Server thread/INFO] [/]: Lineas - 3:  - 4: 
+[03:32:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NeizanJM lost connection: Timed out
+[03:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NeizanJM left the game
+[03:33:13] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player NeizanJM is a1933d30-05d2-35f5-8e7f-6579606af1f0
+[03:33:14] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 7 mods : minecraft, mutantbeasts, forge, majrusz_library, majruszs_difficulty, securitycraft, jei
+[03:33:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: NeizanJM[/192.168.194.5:65005] logged in with entity id 5,197 at (-135.527, 64, -53.324)
